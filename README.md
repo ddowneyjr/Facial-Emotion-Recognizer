@@ -1,4 +1,3 @@
-# Facial-Emotional-Recognizer
 
 ## [Link to Colab](https://colab.research.google.com/drive/1dT5wB7T59Tv99pqu2TkkkRkBzGYuvJD-?usp=sharing)
 
