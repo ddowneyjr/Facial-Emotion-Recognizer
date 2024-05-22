@@ -57,15 +57,10 @@ This project underscores the potential and challenges of using CNN architectures
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
     ```bash
     git clone https://github.com/yourusername/facial-emotion-recognition.git
     cd facial-emotion-recognition
-    ```
-
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
     ```
 
 ## Usage
@@ -73,23 +68,7 @@ This project underscores the potential and challenges of using CNN architectures
 1. Prepare the dataset:
     - Download the ICML Face Data and place it in the `data` directory.
 
-2. Train the model:
-    ```bash
-    python train.py --model simple_cnn
-    ```
-
-3. Evaluate the model:
-    ```bash
-    python evaluate.py --model simple_cnn
-    ```
-
-## Contributions
-
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+2. Run the file
 
 ---
 
