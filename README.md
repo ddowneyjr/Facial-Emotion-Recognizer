@@ -93,5 +93,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-For any questions or issues, please open an issue on GitHub or contact me at [your.email@example.com](mailto:derrell.downey@gmail.com).
+For any questions or issues, please open an issue on GitHub or contact me at [derrell.downey@gmail.com](mailto:derrell.downey@gmail.com).
 
